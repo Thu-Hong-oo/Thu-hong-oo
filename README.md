@@ -76,7 +76,7 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your_github_username&theme=react-dark&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thu-Hong-oo&theme=react-dark&area=true)
 
 
 
