@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F76D6D&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+ThuHong.;Welcome+to+my+GitHub+profile!" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F76D6D&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+ThuHong.;MERN+Stack+Developer" 
     alt="Typing SVG" />
 </h1>
 
@@ -12,52 +12,39 @@
 
 ## 👩‍💻 About Me
 
-🎓 I’m a 4th-year Software Engineering student at the **Industrial University of Ho Chi Minh City**.  
-🌐 I'm passionate about **Fullstack Development**, with a strong interest in building modern web and mobile applications.  
-🛠️ I have hands-on experience working on a **chat application similar to Zalo**, applying both frontend and backend skills.
+🎓 4th-year Software Engineering student at **Industrial University of Ho Chi Minh City**  
+🧩 MERN Stack Developer – web & mobile focused  
+💬 Built a real-time Zalo-like chat app using **React**, **Node.js**, **MongoDB**, and **Socket.IO**  
+🔁 Familiar with **OOP**, **RESTful APIs**, **Auth (JWT)**, **Docker**, **AWS (basic)**
 
 ---
 
-## 🧠 Skills & Technologies
+## 🛠️ Tech Stack & Tools
 
-### 🧰 Core Stack – MERN:
-MERN stands for:
-
-- **MongoDB** – NoSQL database for storing documents
-- **Express.js** – Web framework for Node.js
-- **React.js** – Frontend library for building dynamic user interfaces
-- **Node.js** – JavaScript runtime for server-side logic
-
-### ⚙️ Programming Concepts:
-- **Object-Oriented Programming (OOP)** – designing reusable, modular code
-- **RESTful APIs** – building structured and scalable backends
-- **Authentication & Authorization** – using JWT, cookies, or OAuth
-- **State Management** – with React Context API or Redux
-- **Responsive Design** – mobile-first UI with React Native and CSS frameworks
-
-### 🗃️ Databases:
-- **MongoDB** (with Mongoose)
-- **SQL** (basic relational DB design and queries)
-
-### ☁️ DevOps & Tools:
-- Basic experience with **Docker** and **AWS**
-- Familiar with **Git**, **GitHub**, and team collaboration
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OOP-%23007ACC?style=for-the-badge&logo=abstract&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## 📱 About the Zalo-like Chat App
+## 📱 Chat App – Zalo Clone (Personal Project)
 
-I've built a real-time messaging app inspired by Zalo, featuring:
-
-- 👥 User registration & login (with JWT auth)
-- 💬 Real-time chat using **Socket.IO**
-- 📦 Backend API with Node.js + Express
-- 🧠 State management using Context API
-- 🖼️ File/image upload for profile and chat messages
-- 📱 Mobile-friendly UI with **React Native**
-- 🗄️ Data stored in **MongoDB**
-
-This project helped me gain deep understanding of **WebSockets**, **real-time communication**, and **scalable backend APIs**.
+✅ JWT Authentication  
+✅ Real-time messaging with **Socket.IO**  
+✅ File upload (chat & avatar)  
+✅ React Native UI (mobile-ready)  
+✅ MongoDB with Mongoose  
+✅ Backend with Node.js & Express
 
 ---
 
