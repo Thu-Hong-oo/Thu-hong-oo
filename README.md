@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F76D6D&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+ThuHong.;MERN+Stack+Developer" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+ThuHong.;MERN+Stack+Developer" 
     alt="Typing SVG" />
 </h1>
 
@@ -12,46 +12,72 @@
 
 ## 👩‍💻 About Me
 
-🎓 4th-year Software Engineering student at **Industrial University of Ho Chi Minh City**  
-🧩 MERN Stack Developer – web & mobile focused  
-💬 Built a real-time Zalo-like chat app using **React**, **Node.js**, **MongoDB**, and **Socket.IO**  
-🔁 Familiar with **OOP**, **RESTful APIs**, **Auth (JWT)**, **Docker**, **AWS (basic)**
+🎓 Final-year student at **Industrial University of Ho Chi Minh City**  
+💼 MERN Stack Developer | OOP | REST API | CI/CD | Deployment  
+💬 Built a real-time **Zalo-like chat app** using modern web technologies  
+🚀 Interested in scalable systems, automation, and clean architecture
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 Tech Stack & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+### 👨‍💻 Languages & Frameworks:
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OOP-%23007ACC?style=for-the-badge&logo=abstract&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+</p>
+
+### 🗃️ Databases:
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🧪 DevOps, CI/CD & Deployment:
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CICD-000000?style=for-the-badge&logo=azurepipelines&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
 ---
 
-## 📱 Chat App – Zalo Clone (Personal Project)
+## 📱 Highlight Project – Zalo Chat Clone
 
-✅ JWT Authentication  
-✅ Real-time messaging with **Socket.IO**  
-✅ File upload (chat & avatar)  
-✅ React Native UI (mobile-ready)  
-✅ MongoDB with Mongoose  
-✅ Backend with Node.js & Express
+🧠 Authentication with JWT  
+💬 Real-time messaging with **Socket.IO**  
+🖼️ Media & image upload  
+📱 Mobile UI (React Native)  
+📦 RESTful API (Node + Express)  
+📂 MongoDB + Mongoose  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Auto-Generated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThuHong&show_icons=true&theme=radical" alt="ThuHong's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThuHong&show_icons=true&theme=tokyonight" alt="ThuHong's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuHong&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuHong&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
+
+---
+
+## 💡 Fun Facts
+
+- 🧠 I enjoy working on real-time apps & deployment pipelines
+- 🔍 I'm always learning new tools in DevOps and Backend Scaling
+
+---
+
+## 📫 Contact Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
