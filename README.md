@@ -76,7 +76,8 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thu-Hong-oo&layout=compact&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thu-Hong-oo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
