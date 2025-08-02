@@ -76,7 +76,8 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thu-Hong-oo&theme=react-dark&area=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=tokyonight)
+
 
 
 
