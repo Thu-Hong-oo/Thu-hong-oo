@@ -62,9 +62,9 @@
 ## 📊 GitHub Stats (Auto-Generated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThuHong&show_icons=true&theme=tokyonight" alt="ThuHong's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Thu-Hong-oo&show_icons=true&theme=tokyonight" alt="ThuHong's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuHong&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thu-Hong-oo&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
@@ -78,6 +78,6 @@
 
 ## 📫 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thuhong05022003@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
