@@ -65,6 +65,10 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thu-Hong-oo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 ### Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Thu-Hong-oo&theme=dracula" alt="GitHub Streak"/>
@@ -77,12 +81,6 @@
 
 - 🧠 I enjoy working on real-time apps & deployment pipelines
 - 🔍 I'm always learning new tools in DevOps and Backend Scaling
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thu-Hong-oo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 
 
