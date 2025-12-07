@@ -84,16 +84,7 @@
 📦 RESTful API (Node + Express)  
 📂 MongoDB + Mongoose  
 
----
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thu-Hong-oo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-### Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Thu-Hong-oo&theme=dracula" alt="GitHub Streak"/>
-</p>
 
 
 ---
