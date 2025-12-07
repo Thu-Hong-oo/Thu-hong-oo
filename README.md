@@ -70,10 +70,6 @@
   <img src="https://streak-stats.demolab.com?user=Thu-Hong-oo&theme=dracula" alt="GitHub Streak"/>
 </p>
 
-### GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thu-Hong-oo&theme=dracula&no-frame=true&no-cache=true&margin-w=4" alt="GitHub Trophy"/>
-</p>
 
 ---
 
