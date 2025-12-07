@@ -54,6 +54,27 @@
 </p>
 ---
 
+## GitHub Stats – Full Animated & Beautiful
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thu-Hong-oo&theme=dracula&hide_border=true&point=FFFFFF" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thu-Hong-oo&theme=dracula"/>
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thu-Hong-oo&theme=dracula"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Thu-Hong-oo&theme=dracula&border_radius=12&fire=FF6B6B&ring=8B5CF6&currStreakLabel=A020F0" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Thu-Hong-oo&theme=dracula&no-frame=true&row=1&column=8&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
 ## 📱 Highlight Project – Zalo Chat Clone
 
 🧠 Authentication with JWT  
