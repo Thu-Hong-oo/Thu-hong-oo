@@ -65,11 +65,14 @@
 
 ---
 
-## 📊 GitHub Stats (Auto-Generated)
+### Streak Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thu-Hong-oo&show_icons=true&theme=radical&hide_border=false&include_all_commits=true" alt="Thu Hồng's GitHub Stats"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thu-Hong-oo&layout=compact&theme=radical&hide_border=false" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=Thu-Hong-oo&theme=dracula" alt="GitHub Streak"/>
+</p>
+
+### GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Thu-Hong-oo&theme=dracula&no-frame=true&no-cache=true&margin-w=4" alt="GitHub Trophy"/>
 </p>
 
 ---
