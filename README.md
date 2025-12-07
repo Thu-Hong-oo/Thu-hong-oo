@@ -1,92 +1,100 @@
-<!-- Animated Matrix Rain + Banner (siêu đẹp, nhẹ) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=200&section=header&text=Thu%20H%E1%BB%93ng&fontSize=60&animation=fadeIn&fontAlignY=55" alt="Header"/>
-
-<!-- Animated Typing + Neon Glow -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=4000&pause=800&color=00FFFF&background=000000&center=true&vCenter=true&repeat=true&width=800&height=90&lines=Hi+%F0%9F%91%8B+I'm+Thu+H%E1%BB%93ng+%F0%9F%94%A5;MERN+%7C+Real-time+Systems+Enthusiast;Final-Year+Student+%40+IUH+%E2%9A%A1;Zalo+Clone+Builder+%F0%9F%93%B1" alt="Typing SVG"/>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+ThuHong.;Aspiring+MERN+Stack+Developer" 
+    alt="Typing SVG" />
 </h1>
 
-<!-- Animated Visitor + Stats (động luôn) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thu-Hong-oo&label=Visitors+%F0%9F%91%80&color=00ff00&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Thu-Hong-oo?label=Followers+%F0%9F%91%A5&style=for-the-badge&color=ff00ff"/>
-</p>
-
-<!-- Social + Animated Wave -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
-  <a href="https://linkedin.com/in/thuhong00"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ThuHong.ThuHong" alt="visitor badge"/>
 </p>
 
 ---
-## About Me
-- Final-year student at **Industrial University of Ho Chi Minh City**  
-- Full-stack **MERN + Real-time** Developer (Socket.IO, React Native)  
-- Built a **Zalo-like chat app** with JWT, media upload, online status, typing indicator  
-- Passionate about **scalable systems**, **microservices**, **DevOps**, and **zero-downtime deployment**  
-- Current focus: **Kubernetes**, **AWS ECS**, **Terraform**, and **system design**
+
+## 👩‍💻 About Me
+
+🎓 Final-year student at **Industrial University of Ho Chi Minh City**  
+💼 MERN Stack Developer | OOP | REST API | CI/CD | Deployment  
+💬 Built a real-time **Zalo-like chat app** using modern web technologies  
+🚀 Interested in scalable systems, automation, and clean architecture
 
 ---
-## Tech Stack – Animated Floating Icons
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,spring,java,mongodb,redis,postgres,firebase,docker,kubernetes,aws,gcp,git,github,gitlab,postman,vscode,tailwind,figma&perline=15&theme=dark" />
+## 🚀 Tech Stack & Tools
+
+### 👨‍💻 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-<!-- Animated Snake Eating Contributions (siêu chất) -->
+
+### 🗃️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### 🧪 DevOps, CI/CD, Cloud & Tools
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CICD-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
+---
+
+## GitHub Stats – Full Animated & Beautiful
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thu-Hong-oo/Thu-Hong-oo/output/snake.svg" alt="Snake animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thu-Hong-oo&theme=dracula&hide_border=true&point=FFFFFF" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thu-Hong-oo&theme=dracula"/>
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thu-Hong-oo&theme=dracula"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Thu-Hong-oo&theme=dracula&border_radius=12&fire=FF6B6B&ring=8B5CF6&currStreakLabel=A020F0" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Thu-Hong-oo&theme=dracula&no-frame=true&row=1&column=8&margin-w=15&margin-h=15"/>
 </p>
 
 ---
-## Highlight Project — Zalo Chat Clone
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b7452c-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
-  <br/>
-  <strong>Real-time • Mobile-first • Socket.IO • JWT • Media Upload • React Native</strong>
-  <br/><br/>
-  <a href="https://github.com/Thu-Hong-oo/Zalo-Chat-Clone">
-    <img src="https://img.shields.io/badge/%F0%9F%94%A5_View_Project-00ff00?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+
+## 📱 Highlight Project – Zalo Chat Clone
+
+🧠 Authentication with JWT  
+💬 Real-time messaging with **Socket.IO**  
+🖼️ Media & image upload  
+📱 Mobile UI (React Native)  
+📦 RESTful API (Node + Express)  
+📂 MongoDB + Mongoose  
+
+
+
 
 ---
-## GitHub Stats – Full Animated & Always Working
 
-<!-- Activity Graph (động theo ngày) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thu-Hong-oo&theme=dracula&hide_border=true&point=00ff00" alt="Activity Graph"/>
-</p>
+## 💡 Fun Facts
 
-<!-- Summary Cards + Stats -->
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thu-Hong-oo&theme=dracula"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thu-Hong-oo&theme=dracula"/>
-</p>
+- 🧠 I enjoy working on real-time apps & deployment pipelines
+- 🔍 I'm always learning new tools in DevOps and Backend Scaling
 
-<!-- Streak + Trophy -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Thu-Hong-oo&theme=dracula&border_radius=15&fire=FF0066&ring=00FFFF&currStreakLabel=00FF00"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thu-Hong-oo&theme=dracula&no-frame=true&row=1&column=9&margin-w=15"/>
-</p>
 
----
-## Fun Facts & Vietnamese Dev Vibes
-<p align="center">
-  <img src="https://media.giphy.com/media/1dO2u5f8pK2fJs3V3d/giphy.gif" height="70"/>
-  <strong>Powered by cà phê sữa đá & passion</strong>
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" height="70"/>
-</p>
 
-- Code lúc 2 AM vẫn tỉnh vì có **cà phê đá**  
-- Deploy production mà không sợ downtime  
-- Mục tiêu: **Backend + DevOps Engineer** tại FPT / Shopee / VNG / Axon  
-- Currently learning **Kubernetes** while drinking **trà sữa**
 
-<!-- Animated Waving Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
-</p>
