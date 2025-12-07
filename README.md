@@ -31,6 +31,10 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
+!-- Animated Snake Eating Contributions (siêu chất) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thu-Hong-oo/Thu-Hong-oo/output/snake.svg" alt="Snake animation"/>
+</p>
 
 ### 🗃️ Databases
 <p>
