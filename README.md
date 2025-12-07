@@ -67,9 +67,9 @@
 
 ## 📊 GitHub Stats (Auto-Generated)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thu-Hong-oo&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="Thu Hồng's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Thu-Hong-oo&show_icons=true&theme=radical&hide_border=false&include_all_commits=true" alt="Thu Hồng's GitHub Stats"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thu-Hong-oo&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thu-Hong-oo&layout=compact&theme=radical&hide_border=false" alt="Top Languages"/>
 </p>
 
 ---
